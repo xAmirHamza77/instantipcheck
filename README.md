@@ -6,7 +6,7 @@
 
 🌐 **https://instantipcheck.com**
 
-Category: Internet Tools / Utilities / Networking / Privacy / Web Tools · Platform: Web · By CYBORGATE LTD
+Category: Internet Tools / Utilities / Networking / Privacy / Web Tools · Platform: Web
 
 ## About
 
@@ -28,8 +28,6 @@ Alongside the checker it offers a small set of privacy tools: an IP lookup for o
 Free
 
 ---
-
-Published by CYBORGATE LTD — https://cyborgate.uk · contact@cyborgate.uk
 
 ## SEO Keywords
 
